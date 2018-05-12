@@ -1,0 +1,25 @@
+_repo: The-Arts-and-Crafts-of-Older-Spain-Volume-III--of-3-_44393
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44393-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Williams, Leonard
+    birthdate: 1871
+    gutenberg_agent_id: '42732'
+    url: http://www.gutenberg.org/2009/agents/42732
+description: ''
+gutenberg_issued: '2013-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44393'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Decorative arts -- Spain -- History'
+- !lcc 'NK'
+title: The Arts and Crafts of Older Spain, Volume 3 (of 3)
+url: http://www.gutenberg.org/ebooks/44393
