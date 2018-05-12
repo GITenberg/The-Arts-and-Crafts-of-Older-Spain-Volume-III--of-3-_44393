@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '42732'
     url: http://www.gutenberg.org/2009/agents/42732
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44393#The-Arts-and-Crafts-of-Older-Spain-Volume-III--of-3-
 gutenberg_issued: '2013-12-10'
 gutenberg_type: Text
 identifiers:
